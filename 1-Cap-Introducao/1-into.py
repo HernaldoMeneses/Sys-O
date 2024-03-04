@@ -1,3 +1,4 @@
+'''
 Computador Moderno
     Hardwers
         1 ou Mais processadores
@@ -22,3 +23,4 @@ Computador Moderno
                             reprodutores Audivisuais
 
         Ex - Windows, Linux, FreeBSD, OS X 
+'''
